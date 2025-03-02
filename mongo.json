@@ -1,0 +1,15 @@
+{
+  "_id": "5f5b3b3b3b3b3b3b3b3b3b3b",
+  "name": "Alice",
+  "age": 25,
+  "email": "alice@example.com",
+  "isActive": true,
+  "createdAt": "2025-03-02T08:00:00Z",
+  "tags": ["developer", "blogger"],
+  "address": {
+    "street": "1232 Main St",
+    "city": "Springfield",
+    "state": "CA",
+    "zip": "90001"
+  }
+}
